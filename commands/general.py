@@ -1,6 +1,4 @@
 from discord.ext import commands
-from discord import Member
-
 
 class General(commands.Cog):
     def __init__(self, bot):

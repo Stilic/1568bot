@@ -7,6 +7,6 @@ class Fun(commands.Cog):
         self.bot = bot
 
     @commands.command()
-    async def say(self, ctx):
+    async def say(self, ctx, text):
         """Says what do you want"""
-        await ctx.send(ctx.message.content.replace(self.bot.command_prefix + "say ", ""))
+        await ctx.send(text)

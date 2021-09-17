@@ -1,7 +1,7 @@
 from discord.ext.commands.core import command
 from config import CONFIG
 from discord.ext import commands
-from discord import Member, Embed, Color
+from discord import Embed, Color
 from commands import general, fun
 
 try:
