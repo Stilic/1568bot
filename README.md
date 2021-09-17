@@ -2,6 +2,7 @@
 <img src="./logo.png">
 <h1>The 1568 Discord Bot</h1>
 <p>The numeric bot, thinked for everyone.</p>
+<p><a href="https://discord.com/api/oauth2/authorize?client_id=888302213288587304&permissions=8&scope=bot"><strong>Invite the bot now!</strong></a></p>
 <div>
 <a href="https://github.com/Stilic/1568bot/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Stilic/1568bot"></a>
 <a href="https://github.com/Stilic/1568bot/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Stilic/1568bot"></a>
